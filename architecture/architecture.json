@@ -1,0 +1,44 @@
+[
+	"IRepository": {
+	"template-file" : "",
+	"params-file" : "inteface-repository-template.js",
+	"method_template_filename" : "inteface-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"Repository": {
+	"template-file" : "",
+	"filename" : "repository-template.js",
+	"method_template_filename" : "implemented-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"IService": {
+	"template-file" : "",
+	"filename" : "interface-service-template.js",
+	"method_template_filename" : "inteface-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"Service": {
+	"template-file" : "",
+	"filename" : "service-template.js",
+	"method_template_filename" : "implemented-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"AppService": {
+	"template-file" : "",
+	"filename" : "app-service-template.js",
+	"method_template_filename" : "implemented-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"IAppService": {
+	"template-file" : "",
+	"filename" : "interface-app-service-template.js",
+	"method_template_filename" : "inteface-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	},
+	"Controller": {
+	"template-file" : "",
+	"filename" : "controller-template.js",
+	"method_template_filename" : "implemented-method-template.txt",
+	"attribute_template_filename" : "implemented-attribute-template.txt"
+	}
+]

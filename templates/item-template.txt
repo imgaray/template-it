@@ -1,0 +1,11 @@
+$usingReferences
+
+namespace $namespace
+{
+	public $type $ItemName $hierarchy
+	{
+		$AttributesContainer
+		
+		$MethodsContainer
+	}
+}

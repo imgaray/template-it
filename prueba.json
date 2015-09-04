@@ -1,0 +1,21 @@
+{
+    "namespace": "prueba",
+    "type": "interface",
+    "hierarchy": "",
+    "ItemName": "DomainPrueba",
+    "methods": {
+        "MethodPrueba": {
+            "modifier": "",
+            "returnType": "long",
+			"parameters": { 
+				"id": "long"
+			}
+        }
+    },
+    "attributes": {
+        "Prueba": {
+            "modifier": "public virtual",
+            "returnType": "long"
+        }
+    }
+}
